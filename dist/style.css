@@ -1,0 +1,35 @@
+:root {
+
+    /* 1b0a09 */
+
+    --main-1: #160808; 
+    --main-2: #6350d1;
+
+    }
+    
+body {
+  background-color: var(--main-2);
+  color: var(--main-1);
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+a.nostyle:link {
+    text-decoration: inherit;
+    color: inherit;
+    /* cursor: auto; */
+}
+
+a.nostyle:visited {
+    text-decoration: inherit;
+    color: inherit;
+    /* cursor: auto; */
+}
+    
+
+@media (max-width: 690px) {
+    
+}
+
+@media (max-width: 500px) {
+    
+}

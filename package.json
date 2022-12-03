@@ -1,0 +1,18 @@
+{
+    "scripts": {
+        "start": "node index.mjs",
+        "devStart": "nodemon -e js,ejs,css,html index.mjs",
+        "test": "jest"
+    },
+    "author": "Thomas Le",
+    "dependencies": {
+        "bootstrap": "^4.3.1",
+        "dotenv": "^16.0.2",
+        "inquirer": "^9.1.4",
+        "mysql2": "^2.2.5"
+    },
+    "devDependencies": {
+        "jest": "^29.2.2",
+        "nodemon": "^2.0.20"
+    }
+}
