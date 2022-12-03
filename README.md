@@ -5,7 +5,8 @@
   ## Description
 
   Team Profile Generator is an application will allow the user to generate a team profile by answering a series of questions through the terminal. Technology used in this application include Bootstrap, Node.js, Inquierer, and Jest.
-  ![screenshot](./assets/screenshot-team-prof-gen.png)
+  
+  ![screenshot](./assests\screenshot-team-prof-gen.png)
 
   Link to video walkthrough: https://drive.google.com/file/d/1E4i_6ESCLCzbkPfYOs3B-7kSEG335VVA/view
 
